@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="aitk_std_libs">
+        <item>libadbi_test</item>
+        <item>libddi_test</item>
+        <item>libaitk_dumpall</item>
+        <item>libaitk_dumpclass</item>
+        <item>libaitk_send_raw_pdu</item>
+    </string-array>
+
+</resources>
