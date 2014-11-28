@@ -19,7 +19,8 @@ import org.openmarl.susrv.SuShellInvalidatedException;
 import org.openmarl.tail.TailFragment;
 
 
-public class HomeActivity extends Activity implements AitkContextObserver, View.OnClickListener {
+public class HomeActivity extends Activity
+        implements AitkContextObserver, View.OnClickListener {
 
     private AitkContext mAitkContext;
 
